@@ -44,7 +44,7 @@
 **项目展示图：**
 
 1.游客登录首页图
-![登录页](https://github.com/new2018ellen/project-img/blob/master/middleschool/1.png)
+![登录页](https://github.com/new2018ellen/project-img/blob/master/middleschool/index.png)
 
 2、教师风采效果图
 ![教师风采](https://github.com/new2018ellen/project-img/blob/master/middleschool/2.jpg)
@@ -52,6 +52,6 @@
 3、校园风采效果图
 ![校园风采](https://github.com/new2018ellen/project-img/blob/master/middleschool/3.jpg)
 4、后台登录首页图
-![后台首页](https://github.com/new2018ellen/project-img/blob/master/middleschool/5.png)
+![后台首页](https://github.com/new2018ellen/project-img/blob/master/middleschool/login.png)
 
 
